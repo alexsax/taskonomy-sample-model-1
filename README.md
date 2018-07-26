@@ -1,11 +1,12 @@
 # Sample model: Cauthron
 Model, selected at random, from the dataset of the paper **Taskonomy: Disentangling Task Transfer Learning**.
 
-The dataset includes over **4.5 million images from over 500 buildings**. Each image has annotations for every one of the 2D, 3D, and semantic tasks in Taskonomy's dictionary (see below). For more details, please see the [CVPR 2018 paper](http://taskonomy.vision/#paper).
+The dataset includes **> 4.5 million images from > 500 buildings**. Each image has annotations for every one of the 2D, 3D, and semantic tasks in Taskonomy's dictionary (see below). For more details, please see the [CVPR 2018 paper](http://taskonomy.vision/#paper).
 
 This is only a single model (a small fraction of the dataset) as a sample. For the full dataset, please contact the authors. 
 
 Please also see the [main repository](https://github.com/StanfordVL/taskonomy) and [project website](http://taskonomy.stanford.edu)
+
 
 ## Citing
 
