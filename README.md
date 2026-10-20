@@ -3,7 +3,7 @@ A Model, selected at random, from the dataset of the paper **Taskonomy: Disentan
 
 This is only a single model (a small fraction of the dataset) as a sample. The full dataset includes **> 4.5 million images from > 500 buildings** with a similar format. Each image has annotations for every one of the 2D, 3D, and semantic tasks in Taskonomy's dictionary (see below). 
 
-For more details, please see the [CVPR 2018 paper](http://taskonomy.vision/#paper). Please also see the [main repository](https://github.com/StanfordVL/taskonomy) and [project website](http://taskonomy.stanford.edu).
+For more details, please see the [CVPR 2018 paper](http://taskonomy.stanford.edu/#paper). Please also see the [main repository](https://github.com/StanfordVL/taskonomy) and [project website](http://taskonomy.stanford.edu).
 
 
 
